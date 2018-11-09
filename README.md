@@ -24,7 +24,7 @@ This python script can be used to manage the automatic reposting of Kjiji ads.
 			|-image_n.jpg
 			
 ```
-2. Install pip if you do not already have it. Install the dependencies with `pip install -r requirements` or `pip install selenium`. 
+2. Install pip if you do not already have it. Install the dependencies with `pip install -r requirements.txt` or `pip install selenium`. 
 
 3. Edit `description.txt` with the description you would like for your ad. Place the images for you ad into the `images` folder. Edit `titles.txt` with your title name on one line, or variations of a title on multiple lines. If there are multiple lines in `titles.txt` the script will randomly choose one when posting an ad. 
 
